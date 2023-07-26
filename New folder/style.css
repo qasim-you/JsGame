@@ -1,0 +1,52 @@
+body{
+    background-image: url(./123.jpg);
+    /* height: 100vh;
+    width: 900px; */
+    background-size: cover;
+    position: absolute;
+   
+}
+.grid{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    border: solid black 1px;
+     margin-top: 80px;
+    left: 290px;
+     
+   
+}
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    border: 1px ;
+    background-color:blue ;
+}
+.user{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+   background-color: red;
+}
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: darkgreen;
+}
+#startBtn{
+    position: absolute;
+    
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 100px;
+   margin-left: 200px;
+}
+#startBtn :hover{
+background-color: black;
+color: white;
+transition: 1s ease-in-out;
+}
