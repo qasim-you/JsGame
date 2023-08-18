@@ -1,1 +1,1 @@
-# JavaScript Game 🎮🎮🎮
+# JavaScript Game 🎮🎮
